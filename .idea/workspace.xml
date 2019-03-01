@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java" line="58" />
+    <bookmark url="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java" line="326" />
+    <bookmark url="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" line="263" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cc071b5-953f-4bdf-8079-bf8d6c28e471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/DYQ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/IsPopOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/classic/ClimbStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/classic/LengthOfLCS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/classic/LengthOfLIS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/classic/LongestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/HasCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/MergeTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/MiddleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/RemoveNthFromEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/geekbang/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/DetectCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/GetIntersectionNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/LowestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/MergeTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/SortList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/listtree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/other/MySqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/CheckInclusion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/FindKthLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/FindLengthOfLCIS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/FindLengthOfLIS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/LengthOfLCS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/LengthOfLongestSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/LongestConsecutive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/bytedance/stringarray/ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/other/GetNumberOfK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/primary/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/primary/array/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/FindMedianSortedArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/FourSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/IsValid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/LongestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/MaxArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/Merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/Multiply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/Multiply1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/MyAtoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/ProductExceptSelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/ReverseWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/ThreeSumClosest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/arraystring/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/dp/ClimbStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/dp/MaxSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/DeleteNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/DetectCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/GetIntersectionNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/HasCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/MergeKLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/MergeTwoLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/linkedlist/RotateRight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/number/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/number/IsPowerOfTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/number/MajorityElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/number/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/number/SingleNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/recall/GenerateParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/recall/GrayCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/recall/Permute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/recall/Subsets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/FindKthLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/LowestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/LowestCommonAncestor1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/MaxDepth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/MaxPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/SortList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/leetcode/tenxun/sortsearch/kthSmallest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/Q9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p1/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/Q29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p2/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q36.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q37.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q40.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/Q41.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p3/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q43.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q44.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q45.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q46.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q48.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q49.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q52.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q54.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q56.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q57.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q58.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q59.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q60.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q61.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q63$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q65.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/Q66.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/TreeLinkNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/nowcoder/swordoffer/p4/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/BinaryIndexTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/InversionNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/LRUCache1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/LRUCache1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/LRUCache2$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/LRUCache2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer1$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer1$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer2$Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer2$Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/ProducerConsumer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/other/Shuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton4$SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/sort/Singleton5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classic/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classic/LengthOfLCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classic/LengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classic/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/MiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/geekbang/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/listtree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/other/MySqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/CheckInclusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/FindLengthOfLCIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/FindLengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/LengthOfLCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/LongestConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytedance/stringarray/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/other/GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/primary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/primary/array/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/FindMedianSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/Multiply1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/MyAtoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/arraystring/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/dp/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/dp/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/RotateRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/number/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/number/IsPowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/number/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/number/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/number/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/recall/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/recall/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/recall/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/recall/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/LowestCommonAncestor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/kthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p1/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p2/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/BinaryIndexTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/InversionNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/LRUCache1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/LRUCache2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/ProducerConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/ProducerConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/Singleton.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MAX</find>
+      <find>MAX_VALUE</find>
+      <find>subArray</find>
+      <find>7</find>
+      <find>comparableClassFor</find>
+      <find>null</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\IdeaProjects\Algorithm</dir>
+      <dir>D:\IdeaProjects\Algorithm\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/Q27.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/Q28.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/Q29.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q30.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q31.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q32.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q33.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q34.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q35.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q36.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q37.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q38.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q39.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q40.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q41.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q42.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q43.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q44.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q45.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q46.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q47.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q48.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q49.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q50.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q51.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q52.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q53.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q54.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q55.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q56.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q57.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q58.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q59.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q60.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q61.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q62.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q63.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q64.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q65.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q66.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordoffer/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/primary/array/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/Main.java" />
+        <option value="$PROJECT_DIR$/src/other/BinaryIndexTree.java" />
+        <option value="$PROJECT_DIR$/src/other/InversionNumber.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551425754469" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nowcoder.swordoffer.p4" />
+      <recent name="nowcoder.swordoffer.p3" />
+      <recent name="nowcoder.swordoffer" />
+      <recent name="leetcode.tenxun.sortsearch" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Algorithm\src\nowcoder\swordoffer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="BinaryIndexTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.BinaryIndexTree" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InversionNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.InversionNumber" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.primary.array.RemoveDuplicates" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.primary.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.InversionNumber" />
+        <item itemvalue="Application.BinaryIndexTree" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RemoveDuplicates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc071b5-953f-4bdf-8079-bf8d6c28e471" name="Default Changelist" comment="" />
+      <created>1544879994747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544879994747</updated>
+      <workItem from="1544879998920" duration="2646000" />
+      <workItem from="1544942886829" duration="2663000" />
+      <workItem from="1545109939387" duration="1220000" />
+      <workItem from="1545139532999" duration="2389000" />
+      <workItem from="1545188769323" duration="2204000" />
+      <workItem from="1545290216875" duration="592000" />
+      <workItem from="1545296792818" duration="3002000" />
+      <workItem from="1545305337014" duration="48000" />
+      <workItem from="1545392181265" duration="5497000" />
+      <workItem from="1545484011485" duration="2995000" />
+      <workItem from="1545541984534" duration="822000" />
+      <workItem from="1545543963536" duration="580000" />
+      <workItem from="1545550036148" duration="6903000" />
+      <workItem from="1545636551090" duration="596000" />
+      <workItem from="1545715323864" duration="5673000" />
+      <workItem from="1545743973402" duration="799000" />
+      <workItem from="1545811965378" duration="2444000" />
+      <workItem from="1545904082450" duration="14000" />
+      <workItem from="1545904453748" duration="2628000" />
+      <workItem from="1545907849736" duration="449000" />
+      <workItem from="1545908638323" duration="3550000" />
+      <workItem from="1545971329298" duration="449000" />
+      <workItem from="1545972155895" duration="577000" />
+      <workItem from="1545994904251" duration="7021000" />
+      <workItem from="1546080432136" duration="78000" />
+      <workItem from="1546081048929" duration="5762000" />
+      <workItem from="1546146601795" duration="2577000" />
+      <workItem from="1546231539134" duration="596000" />
+      <workItem from="1546315812730" duration="569000" />
+      <workItem from="1546774167185" duration="576000" />
+      <workItem from="1546864316565" duration="4273000" />
+      <workItem from="1546913344143" duration="7648000" />
+      <workItem from="1547001130295" duration="1823000" />
+      <workItem from="1547050002413" duration="513000" />
+      <workItem from="1547088321270" duration="5997000" />
+      <workItem from="1547177130261" duration="2452000" />
+      <workItem from="1547543950094" duration="1787000" />
+      <workItem from="1547622133386" duration="7358000" />
+      <workItem from="1547703248398" duration="6156000" />
+      <workItem from="1548043092317" duration="2655000" />
+      <workItem from="1548124860997" duration="17586000" />
+      <workItem from="1548216242738" duration="5627000" />
+      <workItem from="1548323411207" duration="4312000" />
+      <workItem from="1548389114276" duration="19387000" />
+      <workItem from="1548460956586" duration="21334000" />
+      <workItem from="1548566697906" duration="4455000" />
+      <workItem from="1548599894309" duration="39000" />
+      <workItem from="1548600018416" duration="1202000" />
+      <workItem from="1548659956494" duration="1177000" />
+      <workItem from="1548823413535" duration="657000" />
+      <workItem from="1549004029755" duration="586000" />
+      <workItem from="1549098295103" duration="3819000" />
+      <workItem from="1549104332041" duration="1194000" />
+      <workItem from="1549114691469" duration="551000" />
+      <workItem from="1549153011778" duration="571000" />
+      <workItem from="1549177883309" duration="175000" />
+      <workItem from="1549178135179" duration="593000" />
+      <workItem from="1549366496990" duration="4620000" />
+      <workItem from="1549426912623" duration="23021000" />
+      <workItem from="1549522840042" duration="10158000" />
+      <workItem from="1549605522888" duration="17197000" />
+      <workItem from="1549689728847" duration="2390000" />
+      <workItem from="1549951255022" duration="585000" />
+      <workItem from="1550209583143" duration="198000" />
+      <workItem from="1550210427214" duration="591000" />
+      <workItem from="1550292829064" duration="584000" />
+      <workItem from="1550381100433" duration="2955000" />
+      <workItem from="1550462212295" duration="13138000" />
+      <workItem from="1550489416657" duration="583000" />
+      <workItem from="1550553779558" duration="1228000" />
+      <workItem from="1550651808814" duration="2402000" />
+      <workItem from="1551246465295" duration="11234000" />
+      <workItem from="1551326643951" duration="1196000" />
+      <workItem from="1551425499159" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="282169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.27168575" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.3747954" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.3747954" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.50075644" side_tool="true" weight="0.4140753" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/bytedance/listtree/SortList.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/tenxun/arraystring/FindMedianSortedArrays.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/tenxun/arraystring/Multiply.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/bytedance/listtree/ReverseList.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/tenxun/linkedlist/AddTwoNumbers.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/FindKthLargest.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/tenxun/sortsearch/kthSmallest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordoffer/p1/Q4.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q25.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q25.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordoffer/p2/Q25.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordoffer/p3/Q37.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>sequence[left]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newRoot</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[j] &amp; (1 &lt;&lt; i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(nums[j] &amp; (1 &lt;&lt; i)) == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(nums[j] &amp; (1 &lt;&lt; i)) == 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nums[0] &amp; (1 &lt;&lt; i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(1 &lt;&lt; i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(nums[0] &amp; (1 &lt;&lt; i)) == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q55.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q57.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q58.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q60.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q61.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="415" column="12" selection-start-line="415" selection-start-column="12" selection-end-line="415" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/p4/Q66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordoffer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/primary/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/primary/array/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c6a31ee1ab855/ArrayList.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c6a32271b99ac/AbstractList.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c6a32351bcfdf/ArrayList.class" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3687" column="26" selection-start-line="3687" selection-start-column="26" selection-end-line="3687" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tenxun/arraystring/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/HotSpotIntrinsicCandidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="123" column="43" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringUTF16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/vm/annotation/ForceInline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="247" column="30" selection-start-line="247" selection-start-column="30" selection-end-line="247" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="530" column="30" selection-start-line="530" selection-start-column="30" selection-end-line="530" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="2130" column="8" selection-start-line="2130" selection-start-column="8" selection-end-line="2130" selection-end-column="8" />
+          <folding>
+            <element signature="e#86090#86091#0" expanded="true" />
+            <element signature="e#86137#86138#0" expanded="true" />
+            <element signature="e#86517#86518#0" expanded="true" />
+            <element signature="e#86549#86550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="1089" column="39" lean-forward="true" selection-start-line="1089" selection-start-column="39" selection-end-line="1089" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17880">
+          <caret line="793" column="26" selection-start-line="793" selection-start-column="26" selection-end-line="793" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="337" column="26" selection-start-line="337" selection-start-column="26" selection-end-line="337" selection-end-column="26" />
+          <folding>
+            <element signature="e#11853#11854#0" expanded="true" />
+            <element signature="e#11899#11900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/BinaryIndexTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1355" column="34" selection-start-line="1355" selection-start-column="34" selection-end-line="1355" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="218" column="24" selection-start-line="218" selection-start-column="24" selection-end-line="218" selection-end-column="24" />
+          <folding>
+            <element signature="e#3862#3863#0" expanded="true" />
+            <element signature="e#3913#3914#0" expanded="true" />
+            <element signature="e#13877#13878#0" expanded="true" />
+            <element signature="e#13945#13946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/InversionNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/vm/annotation/Stable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="80" column="2" lean-forward="true" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3360">
+          <caret line="139" column="31" lean-forward="true" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
+          <folding>
+            <element signature="e#23035#23036#0" expanded="true" />
+            <element signature="e#23079#23080#0" expanded="true" />
+            <element signature="e#129243#129244#0" expanded="true" />
+            <element signature="e#129300#129301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/HasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/MiddleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/RemoveNthFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geekbang/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>jdk11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
